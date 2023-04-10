@@ -9,7 +9,7 @@ function App() {
         <li style={{padding: "1%"}}>Name : 金家逸</li>
         <li style={{padding: "1%"}}>Student ID : B10502076 </li>
         <li style={{padding: "1%"}}>Department : Sophomore of Electrical Engineering</li>
-        <li style={{padding: "1%"}}>Genger : male</li>
+        <li style={{padding: "1%"}}>Gender : male</li>
       </ul>
     </div>
   );
